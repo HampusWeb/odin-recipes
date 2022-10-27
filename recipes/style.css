@@ -1,0 +1,34 @@
+* {
+    background-color:rgb(252, 237, 216);
+    color: black;
+}
+
+h1, h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    text-decoration-line: underline;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 400px
+}
+
+h2 {
+    font-size: 30px;
+    font-variant: normal
+}
+
+#homepage {
+    font-size: 15px;
+    
+}
